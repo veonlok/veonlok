@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @veonlok
-- 👀 I’m interested in Data Science, Web and Mobile App Dev and Social Media Analytics.
-- 🌱 I’m currently learning Time Series Analysis using Statsmodels
-- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects
-- 📫 You can reach me at @veonlok on GitHub or on [LinkedIn](https://www.linkedin.com/in/veon-lok-a445971a9/)
+<div style='display: block; margin: auto; width: 50%;'>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBwajcoRQUjV-3tixkd8pxNIo0RSTb4I_8g&usqp=CAU"/>
+<h2>Hi I'm Veon :)</h2>
+<hr>
+  
+I'm Veon Lok, a year 2 student in Singapore Polytechnic, pursuing a Diploma in Applied AI and Analytics. I enjoy summarising lengthy spreadsheets into valuable insights to understand the present and future.  
+- Aspiring Data Scientist
+- Currently learning Data Structures and Algorithms
+- Find out more about me [here](https://linktr.ee/veonlok)
+
+Tools & Technologies
+- Python
+- JavaScript
 
 <!---
 veonlok/veonlok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
